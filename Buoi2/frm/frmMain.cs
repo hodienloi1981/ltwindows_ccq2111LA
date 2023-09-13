@@ -28,6 +28,7 @@ namespace Buoi2.frm
 
         private void Bai2TinSVToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            //Gi chu
             Form frm1 = new frmSinhVienInfo();
             frm1.MdiParent = this;
             frm1.Show();
