@@ -1,0 +1,13 @@
+C:\Users\DIENLOI\Desktop\HoDienLoiWinLA\Buoi2\bin\Debug\Buoi2.exe.config
+C:\Users\DIENLOI\Desktop\HoDienLoiWinLA\Buoi2\bin\Debug\Buoi2.exe
+C:\Users\DIENLOI\Desktop\HoDienLoiWinLA\Buoi2\bin\Debug\Buoi2.pdb
+C:\Users\DIENLOI\Desktop\HoDienLoiWinLA\Buoi2\obj\Debug\Buoi2.csproj.AssemblyReference.cache
+C:\Users\DIENLOI\Desktop\HoDienLoiWinLA\Buoi2\obj\Debug\Buoi2.csproj.SuggestedBindingRedirects.cache
+C:\Users\DIENLOI\Desktop\HoDienLoiWinLA\Buoi2\obj\Debug\Buoi2.Properties.Resources.resources
+C:\Users\DIENLOI\Desktop\HoDienLoiWinLA\Buoi2\obj\Debug\Buoi2.csproj.GenerateResource.cache
+C:\Users\DIENLOI\Desktop\HoDienLoiWinLA\Buoi2\obj\Debug\Buoi2.csproj.CoreCompileInputs.cache
+C:\Users\DIENLOI\Desktop\HoDienLoiWinLA\Buoi2\obj\Debug\Buoi2.exe
+C:\Users\DIENLOI\Desktop\HoDienLoiWinLA\Buoi2\obj\Debug\Buoi2.pdb
+C:\Users\DIENLOI\Desktop\HoDienLoiWinLA\Buoi2\obj\Debug\Buoi2.frm.frmMain.resources
+C:\Users\DIENLOI\Desktop\HoDienLoiWinLA\Buoi2\obj\Debug\Buoi2.frm.frmSinhVienInfo.resources
+C:\Users\DIENLOI\Desktop\HoDienLoiWinLA\Buoi2\obj\Debug\Buoi2.frm.frmMainTinh2So.resources
