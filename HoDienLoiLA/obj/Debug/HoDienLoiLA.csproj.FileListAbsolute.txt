@@ -1,0 +1,13 @@
+C:\Users\DIENLOI\Desktop\Buoi3\HoDienLoiLA\bin\Debug\HoDienLoiLA.exe.config
+C:\Users\DIENLOI\Desktop\Buoi3\HoDienLoiLA\bin\Debug\HoDienLoiLA.exe
+C:\Users\DIENLOI\Desktop\Buoi3\HoDienLoiLA\bin\Debug\HoDienLoiLA.pdb
+C:\Users\DIENLOI\Desktop\Buoi3\HoDienLoiLA\obj\Debug\HoDienLoiLA.csproj.AssemblyReference.cache
+C:\Users\DIENLOI\Desktop\Buoi3\HoDienLoiLA\obj\Debug\HoDienLoiLA.csproj.SuggestedBindingRedirects.cache
+C:\Users\DIENLOI\Desktop\Buoi3\HoDienLoiLA\obj\Debug\HoDienLoiLA.frm.frmBai01.resources
+C:\Users\DIENLOI\Desktop\Buoi3\HoDienLoiLA\obj\Debug\HoDienLoiLA.frm.frmBai02.resources
+C:\Users\DIENLOI\Desktop\Buoi3\HoDienLoiLA\obj\Debug\HoDienLoiLA.frm.frmMain.resources
+C:\Users\DIENLOI\Desktop\Buoi3\HoDienLoiLA\obj\Debug\HoDienLoiLA.Properties.Resources.resources
+C:\Users\DIENLOI\Desktop\Buoi3\HoDienLoiLA\obj\Debug\HoDienLoiLA.csproj.GenerateResource.cache
+C:\Users\DIENLOI\Desktop\Buoi3\HoDienLoiLA\obj\Debug\HoDienLoiLA.csproj.CoreCompileInputs.cache
+C:\Users\DIENLOI\Desktop\Buoi3\HoDienLoiLA\obj\Debug\HoDienLoiLA.exe
+C:\Users\DIENLOI\Desktop\Buoi3\HoDienLoiLA\obj\Debug\HoDienLoiLA.pdb
